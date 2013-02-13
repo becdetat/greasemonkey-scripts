@@ -1,4 +1,5 @@
-trello-greasemonkey
-===================
+Greasemonkey scripts
+====================
 
-Greasemonkey scripts for Trello
+My collection of greasemonkey scripts
+
